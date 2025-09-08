@@ -17,3 +17,23 @@ Sales data can often be overwhelming when viewed in raw format. This project was
 
 - Dashboard link - <a href= "https://github.com/Apoorva-Kadureswamy/Sales-Power-BI-dashboard/blob/main/Screenshot%20of%20Dashboard%201.jpg"> View dashboard 1</a>
 - Dashboard link - <a href= "https://github.com/Apoorva-Kadureswamy/Sales-Power-BI-dashboard/blob/main/Screenshot%20of%20dashboard%202.jpg"> View dashboard 2</a>
+
+## Process
+1.	Data Cleaning & Preparation in Power BI
+2.	Created calculated columns and measures using DAX:
+    o	Total Sales, Profit %, YoY Comparison, Forecast measures
+3.	Built visuals using:
+    o	Maps, Bar/Column charts, Line charts, Cards, and Forecast visuals
+4.	Applied slicers and filters for interactivity (Year, Region, Category, etc.)
+5.	Designed dashboard layout for easy navigation and storytelling
+
+## Dashboard Preview
+
+
+![Screenshot of Dashboard 1](https://github.com/user-attachments/assets/6eb65936-364b-4302-b64e-7313f4ec08c5)
+
+
+
+
+
+
