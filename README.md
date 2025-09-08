@@ -34,7 +34,23 @@ Sales data can often be overwhelming when viewed in raw format. This project was
 
 ![Screenshot of dashboard 2](https://github.com/user-attachments/assets/3fc9e668-c097-42ec-be60-9b53389da73c)
 
+## Project Insights
+•	Sales totaled over 2 million, with over 22,000 units sold
+•	Profit Margin averaged ~4%
+•	Top States: California (30.9%), New York (17.2%), Texas (10.7%)
+•	Top Categories: Phones, Chairs, and Binders
+•	Consumer Segment accounted for 48% of total sales
+•	Payment Modes: COD (43%) and Online (35%) were most used
+•	Sales Forecast projects continued growth in the next 15 days
 
+## Tools Used
+•	Microsoft Power BI Desktop
+•	DAX (Data Analysis Expressions)
+•	Time Series Forecast Visual
+•	Maps and Custom Visuals
+
+## Conclusion
+This dashboard turns raw sales data into clear, actionable insights. It highlights key trends across regions, categories, and customer segments, with a 15-day sales forecast to support planning. A simple, effective tool for data-driven decision-making.
 
 
 
