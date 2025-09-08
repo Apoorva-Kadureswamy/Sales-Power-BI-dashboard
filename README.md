@@ -32,6 +32,9 @@ Sales data can often be overwhelming when viewed in raw format. This project was
 
 ![Screenshot of Dashboard 1](https://github.com/user-attachments/assets/6eb65936-364b-4302-b64e-7313f4ec08c5)
 
+![Screenshot of dashboard 2](https://github.com/user-attachments/assets/3fc9e668-c097-42ec-be60-9b53389da73c)
+
+
 
 
 
